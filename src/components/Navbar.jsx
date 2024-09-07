@@ -80,7 +80,7 @@ function Navbar() {
               sx={{ width: 35, height: 35 }}
               src="https://images.unsplash.com/photo-1589696709173-2bf10335574a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
-            <Typography variant="span">Ava</Typography>
+            <Typography variant="span">Sizuka</Typography>
           </UserBox>
           <Menu
             id="demo-positioned-menu"
